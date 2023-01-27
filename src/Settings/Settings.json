@@ -1,0 +1,15 @@
+{
+    "GuildID": "",
+    "GuildOwners": [""],
+    "BotVoiceChannel": "",
+    "mongoURL": "",
+
+    "Main": {
+        "token": "",
+        "botID": "",
+        "prefix": [".","+","!","/","-"],
+        "durum": ["calm down, this is null!"],
+        "footer": "calm down, this is null!",
+        "color": "#000000"
+    }
+}
